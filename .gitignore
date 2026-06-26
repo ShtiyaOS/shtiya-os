@@ -12,6 +12,7 @@ node_modules/
 # System/IDE
 .DS_Store
 .idea/
+.codeoss/
 .vscode/
 
 # GCP specific
@@ -20,3 +21,11 @@ cloudshell_open/
 # AI Assistant & Cloud Shell environment artifacts
 .gemini/
 gopath/
+
+# Cloud Shell & System Artifacts
+.cache/
+.config/
+.local/
+.npm/
+.gsutil/
+.bash_history
