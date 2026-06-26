@@ -1,0 +1,18 @@
+# Web Framework & Validation
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.4
+
+# Database Subsystem & GCP Connectors
+sqlalchemy==2.0.30
+pgvector==0.3.0
+google-cloud-sql-connector[pg8000]==1.5.0
+alembic==1.13.1
+
+# Caching & Queue Subsystem
+redis==5.0.4
+celery==5.4.0
+
+# Security & Compliance
+cryptography==42.0.8
+google-auth==2.29.0

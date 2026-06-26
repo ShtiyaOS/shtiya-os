@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "/home/admin_": "admin",
+    "/home/admin_/hello-world-1": "hello-world-1",
+    "/google/devshell/editor/code-oss-for-cloud-shell": "code-oss-for-cloud-shell"
+  }
+}

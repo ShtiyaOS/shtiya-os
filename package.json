@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@google/adk": "^1.2.0"
+  }
+}

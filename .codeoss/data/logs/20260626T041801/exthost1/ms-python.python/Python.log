@@ -1,0 +1,63 @@
+2026-06-26 04:36:48.811 [warning] Dir "/home/admin_/.pixi/envs" is not watchable (directory does not exist)
+2026-06-26 04:36:48.946 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-26 04:36:48.949 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-26 04:36:48.959 [info] Starting Environment refresh
+2026-06-26 04:36:48.984 [info] > hatch env show --json
+2026-06-26 04:36:48.984 [info] cwd: .
+2026-06-26 04:36:49.046 [info] Starting Environment refresh
+2026-06-26 04:36:49.089 [info] > conda info --json
+2026-06-26 04:36:49.185 [info] Environments refresh finished (event): 226 milliseconds
+2026-06-26 04:36:49.185 [info] Environments refresh paths discovered: 226 milliseconds
+2026-06-26 04:36:49.187 [info] Environment refresh took 229 milliseconds
+2026-06-26 04:36:49.196 [info] > pyenv which python
+2026-06-26 04:36:49.197 [info] cwd: .
+2026-06-26 04:36:49.281 [info] Python interpreter path: /bin/python
+2026-06-26 04:36:49.314 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-06-26 04:36:49.411 [info] Environments refresh finished (event): 366 milliseconds
+2026-06-26 04:36:49.411 [info] Environments refresh paths discovered: 366 milliseconds
+2026-06-26 04:36:49.415 [info] Environment refresh took 370 milliseconds
+2026-06-26 04:36:51.247 [info] Starting Jedi language server for admin_.
+2026-06-26 04:40:04.001 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/admin_/requirements.txt
+2026-06-26 04:40:04.002 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2026-06-26 04:40:10.229 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/admin_/requirements.txt
+2026-06-26 04:40:10.229 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
